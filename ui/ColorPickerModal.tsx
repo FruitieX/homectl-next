@@ -542,7 +542,7 @@ export const ColorPickerModal = () => {
       <Modal.Header className="font-bold">
         {deviceModalTitle}
         <Toggle 
-          value={deviceModalPower ? 1 : 0} 
+          checked={deviceModalPower ?? false} 
           onClick={() => partialSetDevicePower(!deviceModalPower)} 
           className={"float-right"}
           />
