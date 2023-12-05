@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.6.1](https://github.com/FruitieX/homectl-next/compare/v0.6.0...v0.6.1) (2023-12-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @uiw/react-color-circle to v2.0.3 ([d78d036](https://github.com/FruitieX/homectl-next/commit/d78d036629b7cdbfdbf05ad66ff3772b0c2dbe6b))
+* **deps:** update dependency @uiw/react-color-wheel to v2.0.3 ([a6304e0](https://github.com/FruitieX/homectl-next/commit/a6304e074c453a5290c63333828c565322d96eec))
+* **deps:** update dependency lucide-react to v0.294.0 ([7bda227](https://github.com/FruitieX/homectl-next/commit/7bda2274a18671811c7fb7eea7b261afdf7a2838))
+
 ## [0.6.0](https://github.com/FruitieX/homectl-next/compare/v0.5.0...v0.6.0) (2023-11-26)
 
 
