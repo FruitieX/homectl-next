@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.1](https://github.com/FruitieX/homectl-next/compare/v1.0.0...v1.0.1) (2025-02-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency jotai to v2.12.0 ([#992](https://github.com/FruitieX/homectl-next/issues/992)) ([fcdaefa](https://github.com/FruitieX/homectl-next/commit/fcdaefa6185b87f60262721347d393f498fdeefb))
+* **deps:** update dependency lucide-react to v0.475.0 ([#986](https://github.com/FruitieX/homectl-next/issues/986)) ([8859fba](https://github.com/FruitieX/homectl-next/commit/8859fba16df40fb19acbb106c280e66eabe8da8c))
+* **deps:** update dependency usehooks-ts to v3.1.1 ([#984](https://github.com/FruitieX/homectl-next/issues/984)) ([037a611](https://github.com/FruitieX/homectl-next/commit/037a61116a4b4f1785b3594e8836cbb2070457b6))
+* **deps:** update nextjs monorepo to v15.1.7 ([#991](https://github.com/FruitieX/homectl-next/issues/991)) ([2103fcb](https://github.com/FruitieX/homectl-next/commit/2103fcbc542ffa4cc8769e63a746fff4912e60ca))
+
 ## 1.0.0 (2025-02-10)
 
 
