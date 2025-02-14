@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.1](https://github.com/FruitieX/homectl-next/compare/v1.0.0...v1.0.1) (2025-02-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @uiw/react-color-circle to v2.4.0 ([#995](https://github.com/FruitieX/homectl-next/issues/995)) ([08124d7](https://github.com/FruitieX/homectl-next/commit/08124d719a7f9734c04ac03bc7b8499b2cd7fae2))
+* **deps:** update dependency @uiw/react-color-wheel to v2.4.0 ([#996](https://github.com/FruitieX/homectl-next/issues/996)) ([b81786a](https://github.com/FruitieX/homectl-next/commit/b81786a67ddce1a51546fe5a5344b07903291bca))
+* **deps:** update dependency jotai to v2.12.0 ([#992](https://github.com/FruitieX/homectl-next/issues/992)) ([fcdaefa](https://github.com/FruitieX/homectl-next/commit/fcdaefa6185b87f60262721347d393f498fdeefb))
+* **deps:** update dependency lucide-react to v0.475.0 ([#986](https://github.com/FruitieX/homectl-next/issues/986)) ([8859fba](https://github.com/FruitieX/homectl-next/commit/8859fba16df40fb19acbb106c280e66eabe8da8c))
+* **deps:** update dependency usehooks-ts to v3.1.1 ([#984](https://github.com/FruitieX/homectl-next/issues/984)) ([037a611](https://github.com/FruitieX/homectl-next/commit/037a61116a4b4f1785b3594e8836cbb2070457b6))
+* **deps:** update nextjs monorepo to v15.1.7 ([#991](https://github.com/FruitieX/homectl-next/issues/991)) ([2103fcb](https://github.com/FruitieX/homectl-next/commit/2103fcbc542ffa4cc8769e63a746fff4912e60ca))
+
 ## 1.0.0 (2025-02-10)
 
 
