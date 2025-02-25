@@ -20,7 +20,7 @@
     "@uiw/react-color-wheel": "2.4.0",
     "canvas": "3.1.0",
     "clsx": "2.1.1",
-    "color": "4.2.3",
+    "color": "5.0.0",
     "colorthief": "2.6.0",
     "daisyui": "4.12.23",
     "deep-equal": "2.2.3",
