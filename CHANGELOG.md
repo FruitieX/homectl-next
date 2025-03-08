@@ -1,5 +1,40 @@
 # Changelog
 
+## [1.1.0](https://github.com/FruitieX/homectl-next/compare/v1.0.0...v1.1.0) (2025-03-08)
+
+
+### Features
+
+* car heater timer modal ([c0eccae](https://github.com/FruitieX/homectl-next/commit/c0eccae4edd7e983fc6f5a749bb076972dfd8029))
+* floorplan modal in dashboard ([3e06be1](https://github.com/FruitieX/homectl-next/commit/3e06be1972ef38eebbae0d8301aa6018b3a06d87))
+* scene state overrides ([b14aafa](https://github.com/FruitieX/homectl-next/commit/b14aafacfc0792aee1f79ac1eedc7ec50bee7c9e))
+* weather forecast ([90b0bb1](https://github.com/FruitieX/homectl-next/commit/90b0bb11439f8b9c6e903f4b95c0881102185f5e))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @uiw/react-color-circle to v2.4.0 ([#995](https://github.com/FruitieX/homectl-next/issues/995)) ([08124d7](https://github.com/FruitieX/homectl-next/commit/08124d719a7f9734c04ac03bc7b8499b2cd7fae2))
+* **deps:** update dependency @uiw/react-color-circle to v2.4.1 ([#1018](https://github.com/FruitieX/homectl-next/issues/1018)) ([9c4b836](https://github.com/FruitieX/homectl-next/commit/9c4b836890f129a637b625dae8e3da803db4e7ec))
+* **deps:** update dependency @uiw/react-color-wheel to v2.4.0 ([#996](https://github.com/FruitieX/homectl-next/issues/996)) ([b81786a](https://github.com/FruitieX/homectl-next/commit/b81786a67ddce1a51546fe5a5344b07903291bca))
+* **deps:** update dependency @uiw/react-color-wheel to v2.4.1 ([#1019](https://github.com/FruitieX/homectl-next/issues/1019)) ([79706d5](https://github.com/FruitieX/homectl-next/commit/79706d526b408cf840fd6eb42863f12b7ddf4461))
+* **deps:** update dependency daisyui to v4.12.24 ([#1013](https://github.com/FruitieX/homectl-next/issues/1013)) ([93a0996](https://github.com/FruitieX/homectl-next/commit/93a099680600b0b98dc6399fb782ccc7ad5b0566))
+* **deps:** update dependency daisyui to v5 ([#1024](https://github.com/FruitieX/homectl-next/issues/1024)) ([87481a1](https://github.com/FruitieX/homectl-next/commit/87481a132b18f0f2cbe5a56288f466078e1f9839))
+* **deps:** update dependency jotai to v2.12.0 ([#992](https://github.com/FruitieX/homectl-next/issues/992)) ([fcdaefa](https://github.com/FruitieX/homectl-next/commit/fcdaefa6185b87f60262721347d393f498fdeefb))
+* **deps:** update dependency jotai to v2.12.1 ([#1002](https://github.com/FruitieX/homectl-next/issues/1002)) ([00d3621](https://github.com/FruitieX/homectl-next/commit/00d3621d7b9fc963df11d008bfd4ac4ffd080a19))
+* **deps:** update dependency lucide-react to v0.475.0 ([#986](https://github.com/FruitieX/homectl-next/issues/986)) ([8859fba](https://github.com/FruitieX/homectl-next/commit/8859fba16df40fb19acbb106c280e66eabe8da8c))
+* **deps:** update dependency lucide-react to v0.476.0 ([#1012](https://github.com/FruitieX/homectl-next/issues/1012)) ([7f22168](https://github.com/FruitieX/homectl-next/commit/7f221686ff8ee2a5fbb926f8418ca56a204b357b))
+* **deps:** update dependency lucide-react to v0.477.0 ([#1022](https://github.com/FruitieX/homectl-next/issues/1022)) ([2f20a2d](https://github.com/FruitieX/homectl-next/commit/2f20a2dbc973aa7eca96c33caf4a27af85c4873b))
+* **deps:** update dependency lucide-react to v0.479.0 ([#1031](https://github.com/FruitieX/homectl-next/issues/1031)) ([f7a3f9f](https://github.com/FruitieX/homectl-next/commit/f7a3f9fef2e092f3c6c2fb24931ba63ed08ac02d))
+* **deps:** update dependency react-konva to v19.0.3 ([#1005](https://github.com/FruitieX/homectl-next/issues/1005)) ([b6339ca](https://github.com/FruitieX/homectl-next/commit/b6339cabae7004e42d7f94e094f71e831d58570b))
+* **deps:** update dependency react-konva-utils to v1.1.0 ([#1003](https://github.com/FruitieX/homectl-next/issues/1003)) ([fbc53a6](https://github.com/FruitieX/homectl-next/commit/fbc53a67d6e83a1d2c074e59a3f3f020d2e81001))
+* **deps:** update dependency usehooks-ts to v3.1.1 ([#984](https://github.com/FruitieX/homectl-next/issues/984)) ([037a611](https://github.com/FruitieX/homectl-next/commit/037a61116a4b4f1785b3594e8836cbb2070457b6))
+* **deps:** update nextjs monorepo to v15.1.7 ([#991](https://github.com/FruitieX/homectl-next/issues/991)) ([2103fcb](https://github.com/FruitieX/homectl-next/commit/2103fcbc542ffa4cc8769e63a746fff4912e60ca))
+* **deps:** update nextjs monorepo to v15.2.0 ([#1017](https://github.com/FruitieX/homectl-next/issues/1017)) ([7b64d28](https://github.com/FruitieX/homectl-next/commit/7b64d28f8982e2015f795b922375988c4f171068))
+* **deps:** update nextjs monorepo to v15.2.1 ([#1030](https://github.com/FruitieX/homectl-next/issues/1030)) ([21cc495](https://github.com/FruitieX/homectl-next/commit/21cc49565ce75af329e0d473e3f9c3cbeb8e7ea6))
+* incorrect device id ([8bbe6d9](https://github.com/FruitieX/homectl-next/commit/8bbe6d96ccd5a624eddea574508649a44f38d09d))
+* transitionMs -&gt; transition in seconds ([0f553d0](https://github.com/FruitieX/homectl-next/commit/0f553d05bb0d952e095cd98f874211f1bf728244))
+* workaround typescript errors introduced with new bindings ([5c90203](https://github.com/FruitieX/homectl-next/commit/5c90203cb120129b1a1eb0a567c1f326d63851a1))
+
 ## 1.0.0 (2025-02-10)
 
 
